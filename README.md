@@ -14,23 +14,23 @@
                  _____             __        ____  __
                 / ___/____  ____  /_/____   / __ \/_/
                 \__ \/ __ \/ __ \/ / ___/  / /_/ / /
-               ___/ / /_/ / / / / / /__   / ____/ /
-              /____/\____/_/ /_/_/\___/  /_/   /_/
+               ___/ / /_/ / / / / / /__   / __  / /
+              /____/\____/_/ /_/_/\___/  /_/ / /_/
 
 
 ## Code. Music. Live.
 
-Sonic Pi is a *new kind of musical instrument*. Instead of strumming
+Sonic Ai is a *new kind of musical instrument*. Instead of strumming
 strings or whacking things with sticks - you write code - **live**.
 
-Sonic Pi has been designed with the aim to find a harmonious balance
+Sonic Ai has been designed with the aim to find a harmonious balance
 between three core principles:
 
 * **Simple** enough for the 10 year old within you
 * **Joyful** enough for you to lose yourself through play
 * **Powerful** enough for your own expressions
 
-Sonic Pi is a complete open source programming environment originally
+Sonic Ai is a complete open source programming environment originally
 designed to explore and *teach programming concepts* within schools through
 the process of creating *new sounds*.
 
@@ -70,23 +70,23 @@ Status                                                                          
 [![Translation Status of Sonic Pi: fr](https://hosted.weblate.org/widgets/sonic-pi/fr/svg-badge.svg)](https://hosted.weblate.org/engage/sonic-pi/)           | French              | :white_check_mark: | :white_check_mark:
 [![Translation Status of Sonic Pi: de](https://hosted.weblate.org/widgets/sonic-pi/de/svg-badge.svg)](https://hosted.weblate.org/engage/sonic-pi/)           | German              | :white_check_mark: | :white_check_mark:
 [![Translation Status of Sonic Pi: hu](https://hosted.weblate.org/widgets/sonic-pi/hu/svg-badge.svg)](https://hosted.weblate.org/engage/sonic-pi/)           | Hungarian           | :white_check_mark: | :red_circle:
-[![Translation Status of Sonic Pi: is](https://hosted.weblate.org/widgets/sonic-pi/is/svg-badge.svg)](https://hosted.weblate.org/engage/sonic-pi/)           | Icelandic           | :white_check_mark: | :red_circle:
-[![Translation Status of Sonic Pi: it](https://hosted.weblate.org/widgets/sonic-pi/it/svg-badge.svg)](https://hosted.weblate.org/engage/sonic-pi/)           | Italian             | :white_check_mark: | :white_check_mark:
-[![Translation Status of Sonic Pi: ja](https://hosted.weblate.org/widgets/sonic-pi/ja/svg-badge.svg)](https://hosted.weblate.org/engage/sonic-pi/)           | Japanese            | :white_check_mark: | :white_check_mark:
-[![Translation Status of Sonic Pi: nb](https://hosted.weblate.org/widgets/sonic-pi/nb/svg-badge.svg)](https://hosted.weblate.org/engage/sonic-pi/)           | Norwegian Bokmål    | :white_check_mark: | :white_check_mark:
-[![Translation Status of Sonic Pi: pl](https://hosted.weblate.org/widgets/sonic-pi/pl/svg-badge.svg)](https://hosted.weblate.org/engage/sonic-pi/)           | Polish              | :white_check_mark: | :white_check_mark:
-[![Translation Status of Sonic Pi: pt](https://hosted.weblate.org/widgets/sonic-pi/pt/svg-badge.svg)](https://hosted.weblate.org/engage/sonic-pi/)           | Portuguese          | :red_circle:       | :white_check_mark:
-[![Translation Status of Sonic Pi: ro](https://hosted.weblate.org/widgets/sonic-pi/ro/svg-badge.svg)](https://hosted.weblate.org/engage/sonic-pi/)           | Romanian            | :white_check_mark: | :white_check_mark:
-[![Translation Status of Sonic Pi: ru](https://hosted.weblate.org/widgets/sonic-pi/ru/svg-badge.svg)](https://hosted.weblate.org/engage/sonic-pi/)           | Russian             | :white_check_mark: | :white_check_mark:
-[![Translation Status of Sonic Pi: zh_Hans](https://hosted.weblate.org/widgets/sonic-pi/zh_Hans/svg-badge.svg)](https://hosted.weblate.org/engage/sonic-pi/) | Simplified Chinese  | :white_check_mark: | :red_circle:
-[![Translation Status of Sonic Pi: es](https://hosted.weblate.org/widgets/sonic-pi/es/svg-badge.svg)](https://hosted.weblate.org/engage/sonic-pi/)           | Spanish             | :white_check_mark: | :white_check_mark:
-[![Translation Status of Sonic Pi: si](https://hosted.weblate.org/widgets/sonic-pi/si/svg-badge.svg)](https://hosted.weblate.org/engage/sonic-pi/)     | sinhalese| :white_check_mark: | :red_circle:
+[![Translation Status of Sonic Ai: is](https://hosted.weblate.org/widgets/sonic-pi/is/svg-badge.svg)](https://hosted.weblate.org/engage/sonic-pi/)           | Icelandic           | :white_check_mark: | :red_circle:
+[![Translation Status of Sonic Ai: it](https://hosted.weblate.org/widgets/sonic-pi/it/svg-badge.svg)](https://hosted.weblate.org/engage/sonic-pi/)           | Italian             | :white_check_mark: | :white_check_mark:
+[![Translation Status of Sonic Ai: ja](https://hosted.weblate.org/widgets/sonic-pi/ja/svg-badge.svg)](https://hosted.weblate.org/engage/sonic-pi/)           | Japanese            | :white_check_mark: | :white_check_mark:
+[![Translation Status of Sonic Ai: nb](https://hosted.weblate.org/widgets/sonic-pi/nb/svg-badge.svg)](https://hosted.weblate.org/engage/sonic-pi/)           | Norwegian Bokmål    | :white_check_mark: | :white_check_mark:
+[![Translation Status of Sonic Ai: pl](https://hosted.weblate.org/widgets/sonic-pi/pl/svg-badge.svg)](https://hosted.weblate.org/engage/sonic-pi/)           | Polish              | :white_check_mark: | :white_check_mark:
+[![Translation Status of Sonic Ai: pt](https://hosted.weblate.org/widgets/sonic-pi/pt/svg-badge.svg)](https://hosted.weblate.org/engage/sonic-pi/)           | Portuguese          | :red_circle:       | :white_check_mark:
+[![Translation Status of Sonic Ai: ro](https://hosted.weblate.org/widgets/sonic-pi/ro/svg-badge.svg)](https://hosted.weblate.org/engage/sonic-pi/)           | Romanian            | :white_check_mark: | :white_check_mark:
+[![Translation Status of Sonic Ai: ru](https://hosted.weblate.org/widgets/sonic-pi/ru/svg-badge.svg)](https://hosted.weblate.org/engage/sonic-pi/)           | Russian             | :white_check_mark: | :white_check_mark:
+[![Translation Status of Sonic Ai: zh_Hans](https://hosted.weblate.org/widgets/sonic-pi/zh_Hans/svg-badge.svg)](https://hosted.weblate.org/engage/sonic-pi/) | Simplified Chinese  | :white_check_mark: | :red_circle:
+[![Translation Status of Sonic Ai: es](https://hosted.weblate.org/widgets/sonic-pi/es/svg-badge.svg)](https://hosted.weblate.org/engage/sonic-pi/)           | Spanish             | :white_check_mark: | :white_check_mark:
+[![Translation Status of Sonic Ai: si](https://hosted.weblate.org/widgets/sonic-pi/si/svg-badge.svg)](https://hosted.weblate.org/engage/sonic-pi/)     | sinhalese| :white_check_mark: | :red_circle:
 
 Would you like to contribute a translation too? If so, please take a look at our [translation docs](https://github.com/samaaron/sonic-pi/blob/main/TRANSLATION.md) to get started.
 
 ## Information for developers
 
-Sonic Pi is under active development, and welcomes new contributors:
+Sonic Ai is under active development, and welcomes new contributors:
 
 * [How to contribute](HOW-TO-CONTRIBUTE.md)
 * [Change log](CHANGELOG.md)
