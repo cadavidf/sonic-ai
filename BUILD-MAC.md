@@ -1,4 +1,4 @@
-# Building the Latest Sonic Pi on macOS
+# Building the Latest Sonic Ai on macOS
 
 Hello there lovely macOS user - welcome to our build instructions.
 
@@ -6,7 +6,7 @@ Hello there lovely macOS user - welcome to our build instructions.
 ### Installing vs Building
 
 These instructions are for people wanting to build/compile their own
-version of Sonic Pi. If you're just looking to install it, we've already
+version of Sonic Ai. If you're just looking to install it, we've already
 done all of this work for you and you can grab the latest signed
 pre-built version of the app here:
 
@@ -20,11 +20,11 @@ https://in-thread.sonic-pi.net
 
 OK, so just to get you prepared, we're going to do a few things:
 
-1. Install the various dependencies that Sonic Pi needs both to be built
+1. Install the various dependencies that Sonic Ai needs both to be built
 and to run
 2. Prepare the build by running some command scripts
-3. Build Sonic Pi using `cmake`
-4. Start your new Sonic Pi using your newly built app
+3. Build Sonic Ai using `cmake`
+4. Start your new Sonic Ai using your newly built app
 
 ### Notes
 
@@ -34,7 +34,7 @@ modification._
 
 ## 1. Installing Dependencies
 
-In order to build Sonic Pi's various components, we need to install a
+In order to build Sonic Ai's various components, we need to install a
 few dependencies:
 
 1. Xcode (12.1+) and command line tools
@@ -75,7 +75,7 @@ brew install qt cmake
 ## 2. Preparing the Build
 
 Once we have installed all the dependencies, we're almost ready to build
-Sonic Pi. However, we must first grab a copy of Sonic Pi's source code.
+Sonic Ai. However, we must first grab a copy of Sonic Ai's source code.
 
 The easiest way of getting this is likely to be cloning from GitHub
 into a folder on your hard drive such as `~/Development/sonic-pi`:
@@ -108,7 +108,7 @@ which will:
 
 ### 3.1 Prebuild
 
-Firstly, we need to change to the `app` directory at the root of the Sonic Pi repository:
+Firstly, we need to change to the `app` directory at the root of the Sonic Ai repository:
 
 ```
 cd ~/Development/sonic-pi/app
@@ -134,9 +134,9 @@ cd build
 cmake --build . --config Release
 ```
 
-## 4. Start Sonic Pi
+## 4. Start Sonic Ai
 
-Finally, you can run your newly compiled `Sonic Pi` app within the `build`
+Finally, you can run your newly compiled `Sonic Ai` app within the `build`
 directly either by double clicking it in the Finder or via the terminal
 (from within the `build` directory):
 
